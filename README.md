@@ -8,17 +8,8 @@ Below is the directory structure of the project:
   ├── data/<br/>
   │    ├── games.csv<br/>
   │    ├── player_play.csv<br/>
+  │    ├── ... <br/>  
   │    ├── plays.csv<br/>
-  │    ├── tracking_week_1.csv<br/>
-  │    ├── tracking_week_2.csv<br/>
-  │    ├── tracking_week_3.csv<br/>
-  │    ├── tracking_week_4.csv<br/>
-  │    ├── tracking_week_5.csv<br/>
-  │    ├── tracking_week_6.csv<br/>
-  │    ├── tracking_week_7.csv<br/>
-  │    ├── tracking_week_8.csv<br/>
-  │    ├── tracking_week_9.csv<br/>  
-  │    └── tracking_week_9.csv<br/>
   └── nfl-data-mining-final-project.ipynb<br/>
 
 ## Files
