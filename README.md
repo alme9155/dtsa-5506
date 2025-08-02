@@ -1,4 +1,4 @@
-# dtsa-5506 Final Project
+# DTSA-5506 Final Project
 
 This project explores various data mining technique on the NFL Big Bowl 2025 Dataset.
 
